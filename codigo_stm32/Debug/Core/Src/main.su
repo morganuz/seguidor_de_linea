@@ -1,0 +1,13 @@
+../Core/Src/main.c:73:5:main	56	static
+../Core/Src/main.c:149:6:SystemClock_Config	88	static
+../Core/Src/main.c:196:13:MX_TIM4_Init	64	static
+../Core/Src/main.c:259:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:317:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:344:6:statechart_recto	16	static
+../Core/Src/main.c:353:6:statechart_bajarVelocidad	16	static
+../Core/Src/main.c:358:6:statechart_girarDer	16	static
+../Core/Src/main.c:364:6:statechart_girarIzq	16	static
+../Core/Src/main.c:370:6:statechart_frenar	16	static
+../Core/Src/main.c:381:6:statechart_arrancar	16	static
+../Core/Src/main.c:386:6:statechart_retroceso	16	static
+../Core/Src/main.c:399:6:Error_Handler	4	static,ignoring_inline_asm
